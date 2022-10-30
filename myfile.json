@@ -1,0 +1,22 @@
+{
+    "string": "Pluralsight",
+    "Name":"HemantMishra",
+    "Father":"GaneshMishra",
+    "Motehr":"LalitaDevi",
+    "Phone_No":"8510981769",
+    "Physics":87,
+    "Math":87,
+    "Ds":86,
+    "number": 1,
+    "true": true,
+    "false": false,
+    "null": null,
+    "arrayOfStrings": ["anc", "bcd", "cbe", "deg"],
+    "arrayOfNumbers": [1, 2, 3, 4, 5],
+    "arrayofname": ["hemant", "anant", "rahul", "amit"],
+    "arrayofage": [21, 21, 20, 19],
+    "arrayOfObjects": [{ "a": 1 }, { "a": 2}],
+    "object": {
+      "anyKey": "anyValue"
+    }
+  }
